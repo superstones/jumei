@@ -1,0 +1,45 @@
+/*全局设置*/
+* {
+    margin: auto auto;
+    padding: 0 0;
+}
+/*字体设置*/
+/*常用*/
+.f12{
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: 1.5;
+    font-family: arial, "Hiragino Sans GB", 微软雅黑, sans-serif;
+}
+.f13{font-size: 13px}
+.f14{font-size: 14px}
+.f15{font-size: 15px}
+.f16{font-size: 16px}
+.f17{font-size: 17px}
+.f18{font-size: 18px}
+.f19{font-size: 19px}
+.f20{font-size: 20px}
+.f23{font-size: 23px}
+.f24{font-size: 24px}
+.f25{font-size: 25px}
+.f26{font-size: 26px}
+.font1{font-family: "宋体"}
+.font2{font-family: "黑体";font-weight: bold;}
+
+.list{list-style: none}
+.block{display: block}
+a{text-decoration:none;color:#6c6c6c}
+a:hover{text-decoration:underline;color:red}
+img{vertical-align:bottom}
+.fl{float:left}
+.fr{float:right}
+.hide{display:none}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: 400;}
+blockquote, body, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, pre, td, textarea, th, ul {  margin:0;  padding:0;
+}
